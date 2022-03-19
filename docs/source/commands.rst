@@ -1,6 +1,8 @@
 Commands
 =====
 
+hi?
+
 .. autosummary::
    :toctree: generated
 
