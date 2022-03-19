@@ -17,5 +17,6 @@ Contents
 
 .. toctree::
 
-   guides
+   guides/installation
+   guides/creating-recipes
    commands
