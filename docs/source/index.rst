@@ -19,4 +19,3 @@ Contents
 
    guides
    commands
-   
