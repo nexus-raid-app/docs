@@ -1,5 +1,5 @@
 Commands
-===
+=====
 
 .. autosummary::
    :toctree: generated
