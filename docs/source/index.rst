@@ -1,15 +1,12 @@
-Welcome to Nexus' documentation!
+Nexus documentation
 ===================================
-`Hello <https://fksdlj.com>`
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Nexus** is a Discord bot that offers a system to host and join remote raids from all over the world in Pokémon Go.
 
-Lumache has its documentation hosted on Read the Docs.
+It also comes with lots of utilities, such as information about Pokémon, raid bosses, events, trading and much more. It's also integrated with the Pokébattler Raid Network! In here, you'll find all the information you need, such as commands and guides.
+
+Feeling a bit lost? Feel free to join the `support server <https://world.openfoodfacts.org/>`_ on Discord, we'll be happy to help :)
+
 
 .. note::
 
