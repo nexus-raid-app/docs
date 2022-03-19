@@ -1,7 +1,7 @@
 Guides
 =====
 
-.. _installation:
+
 
 Installation
 ------------

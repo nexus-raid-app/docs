@@ -5,12 +5,12 @@ Nexus documentation
 
 It also comes with lots of utilities, such as information about Pokémon, raid bosses, events, trading and much more. It's also integrated with the Pokébattler Raid Network! In here, you'll find all the information you need, such as commands and guides.
 
-Feeling a bit lost? Feel free to join the `support server <https://world.openfoodfacts.org/>`_ on Discord, we'll be happy to help :)
+Feeling a bit lost? Feel free to join the `support server <https://discord.gg/TK6RuVZC9X>`_ on Discord, we'll be happy to help :)
 
 
 .. note::
 
-   This project is under active development. You can report bugs or new features on the `support server <https://world.openfoodfacts.org/>`_.
+   This project is under active development. You can report bugs or new features on the `support server <https://discord.gg/TK6RuVZC9X>`_.
 
 Contents
 --------
