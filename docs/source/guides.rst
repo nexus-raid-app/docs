@@ -25,12 +25,12 @@ Raiding
 General info
 
 Joining raids
--------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Join!
 
 Hosting raids
--------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Host!
 
