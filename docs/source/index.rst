@@ -10,12 +10,13 @@ Feeling a bit lost? Feel free to join the `support server <https://world.openfoo
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. You can report bugs or new features on the `support server <https://world.openfoodfacts.org/>`_.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   guides
+   commands
+   
