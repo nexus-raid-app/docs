@@ -30,7 +30,7 @@ server raid-restrictions
 
 Full command: ``!server raid-restrictions  <channel> <restrictions>``
 
-Use this to set raid restrictions on an existing raid channel. You can either use tier restrictions or pok�mon restrictions, but not both.
+Use this to set raid restrictions on an existing raid channel. You can either use tier restrictions or pokémon restrictions, but not both.
 
 server info
 ~~~~~~~~~~~
@@ -184,7 +184,7 @@ server freeze-restrictions
 
 Full command: ``!server freeze-restrictions  <channel>``
 
-Use this to freeze global raid restrictions on a raid channel. This will only allow the current pok�mon that are in raids of the tiers your raid channel has restrictions on.
+Use this to freeze global raid restrictions on a raid channel. This will only allow the current pokémon that are in raids of the tiers your raid channel has restrictions on.
 
 server raid-info
 ~~~~~~~~~~~
@@ -240,7 +240,7 @@ create emoji
 
 Full command: ``!create emoji  <pokemon>``
 
-This will create an emoji from the pok�mon you input.
+This will create an emoji from the pokémon you input.
 
 create team-roles
 ~~~~~~~~~~~
@@ -261,7 +261,7 @@ create global-emoji
 
 Full command: ``!create global-emoji  <pokemon>``
 
-This will create an emoji from the pok�mon you input.
+This will create an emoji from the pokémon you input.
 
 leaderboard
 ~~~~~~~~~~~
@@ -454,35 +454,35 @@ delete poke-roles
 
 Full command: ``!delete poke-roles  <pokemon>``
 
-Use this to delete the roles of the pok�mon you input, as well as the weather boosted roles.
+Use this to delete the roles of the pokémon you input, as well as the weather boosted roles.
 
 delete not-global-poke-emoji
 ~~~~~~~~~~~
 
 Full command: ``!delete not-global-poke-emoji``
 
-This will delete all emojis from pok�mon that are not currently in raids in your server.
+This will delete all emojis from pokémon that are not currently in raids in your server.
 
 delete not-global-poke-roles
 ~~~~~~~~~~~
 
 Full command: ``!delete not-global-poke-roles``
 
-Use this to delete all the poke roles from pok�mon that are currently not active in raids.
+Use this to delete all the poke roles from pokémon that are currently not active in raids.
 
 delete emoji
 ~~~~~~~~~~~
 
 Full command: ``!delete emoji  <pokemon>``
 
-This will delete an emoji from the pok�mon you input.
+This will delete an emoji from the pokémon you input.
 
 delete all-poke-emoji
 ~~~~~~~~~~~
 
 Full command: ``!delete all-poke-emoji``
 
-This will delete all emojis from pok�mon that are in your server.
+This will delete all emojis from pokémon that are in your server.
 
 award
 ~~~~~~~~~~~
@@ -510,7 +510,7 @@ poke-rr
 
 Full command: ``!poke-rr  <setting>``
 
-Use this to access pok�mon reaction roles.
+Use this to access pokémon reaction roles.
 
 poke-rr create-all-in-one
 ~~~~~~~~~~~
@@ -519,63 +519,63 @@ Aliases: caio
 
 Full command: ``!poke-rr create-all-in-one  <channel>``
 
-Use this to create a reaction role of each tier of the pok�mon active in raids.
+Use this to create a reaction role of each tier of the pokémon active in raids.
 
 poke-rr edit
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr edit  <message_id> <channel> <pokemon>``
 
-Use this to edit a pok�mon reaction role. This will also create all the necessary roles and emojis. You need to input all the pok�mon you want on a pok�mon reaction role, and Nexus will update it accordingly, without deleting the ones that are already there.
+Use this to edit a pokémon reaction role. This will also create all the necessary roles and emojis. You need to input all the pokémon you want on a pokémon reaction role, and Nexus will update it accordingly, without deleting the ones that are already there.
 
 poke-rr permaboosted
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr permaboosted``
 
-Use this to toggle on/off permaboosted showing on pok�mon reaction roles.
+Use this to toggle on/off permaboosted showing on pokémon reaction roles.
 
 poke-rr global-edit
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr global-edit  <message_id> <channel> [tier=all]``
 
-Use this to edit a pok�mon reaction role with the pok�mon that are currently in raids.
+Use this to edit a pokémon reaction role with the pokémon that are currently in raids.
 
 poke-rr global-create
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr global-create  <channel> [tier=all]``
 
-Use this to create a reaction role of the pok�mon currently in raids.
+Use this to create a reaction role of the pokémon currently in raids.
 
 poke-rr mentionable
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr mentionable``
 
-Use this to toggle on/off roles from pok�mon reaction roles being mentionable.
+Use this to toggle on/off roles from pokémon reaction roles being mentionable.
 
 poke-rr weather-boosted
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr weather-boosted``
 
-Use this to toggle on/off weather boosted pok�mon reaction roles.
+Use this to toggle on/off weather boosted pokémon reaction roles.
 
 poke-rr tier-roles
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr tier-roles``
 
-Use this to toggle on/off tier roles showing on pok�mon reaction roles.
+Use this to toggle on/off tier roles showing on pokémon reaction roles.
 
 poke-rr create
 ~~~~~~~~~~~
 
 Full command: ``!poke-rr create  <channel> <pokemon>``
 
-Use this to create a reaction role of the pok�mon you input. This will also create all the necessary roles.
+Use this to create a reaction role of the pokémon you input. This will also create all the necessary roles.
 
 view
 ~~~~~~~~~~~
@@ -780,7 +780,7 @@ counters
 
 Full command: ``!counters  [boss=None]``
 
-Use this to get the top 6 counters against a raid boss. If you use this inside a raid, you don't need to include the pok�mon in the command.
+Use this to get the top 6 counters against a raid boss. If you use this inside a raid, you don't need to include the pokémon in the command.
 
 member
 ~~~~~~~~~~~
@@ -984,7 +984,7 @@ auto-join start
 
 Full command: ``!auto-join start  <pokemon>``
 
-Use this to start auto-joining raids for the pok�mon you input.
+Use this to start auto-joining raids for the pokémon you input.
 
 auto-join status
 ~~~~~~~~~~~
@@ -1159,7 +1159,7 @@ global-trading-system search
 
 Full command: ``!global-trading-system search  [pokemon=None]``
 
-Use this to search a trade for a pok�mon within your range. If you give no pok�mon to this command, it will search all available trades.
+Use this to search a trade for a pokémon within your range. If you give no pokémon to this command, it will search all available trades.
 
 global-trading-system success
 ~~~~~~~~~~~
@@ -1192,7 +1192,7 @@ Aliases: dex
 
 Full command: ``!pokedex  <pokemon>``
 
-Use this to show information about a pok�mon.
+Use this to show information about a pokémon.
 
 pvp-rank
 ~~~~~~~~~~~
@@ -1210,5 +1210,5 @@ events
 
 Full command: ``!events``
 
-Use this to get the latest events on Pok�mon Go from Serebii.net.
+Use this to get the latest events on Pokémon Go from Serebii.net.
 
